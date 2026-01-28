@@ -1,0 +1,140 @@
+<meta name='viewport' content='width=device-width, initial-scale=1'/><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cattle Business | Trusted Since 20 Years</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+
+        header {
+            background-color: #2e7d32;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 32px;
+        }
+
+        header p {
+            margin: 5px 0 15px;
+            font-size: 16px;
+        }
+
+        .btn {
+            background-color: #ffffff;
+            color: #2e7d32;
+            padding: 12px 20px;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 5px;
+        }
+
+        section {
+            padding: 40px 20px;
+            max-width: 1100px;
+            margin: auto;
+        }
+
+        h2 {
+            color: #2e7d32;
+            margin-bottom: 15px;
+        }
+
+        .services, .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+        }
+
+        .card {
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        .cta {
+            background-color: #2e7d32;
+            color: white;
+            text-align: center;
+            padding: 30px 20px;
+        }
+
+        footer {
+            background-color: #1b5e20;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            font-size: 14px;
+        }
+
+        .contact {
+            font-size: 18px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Trusted Cattle Business</h1>
+    <p>Healthy • Reliable • Honest | Trusted Since 20 Years</p>
+    <a class="btn" href="tel:7887885545">📞 Call Now</a>
+</header>
+
+<section>
+    <h2>About Us</h2>
+    <p>
+        We are a trusted cattle business serving people for more than <strong>20 years</strong>.
+        Our focus has always been on healthy cattle, fair pricing, and long-term relationships.
+    </p>
+</section>
+
+<section>
+    <h2>Our Services</h2>
+    <div class="services">
+        <div class="card">
+            <h3>🐄 Cattle Sales</h3>
+            <p>Healthy cows and buffaloes for dairy and farming needs.</p>
+        </div>
+        <div class="card">
+            <h3>🤝 Trusted Deals</h3>
+            <p>Transparent buying and selling with honest pricing.</p>
+        </div>
+        <div class="card">
+            <h3>🌾 Dairy Guidance</h3>
+            <p>Expert advice for farmers and first-time buyers.</p>
+        </div>
+    </div>
+</section>
+
+<section>
+    <h2>Why Choose Us?</h2>
+    <div class="features">
+        <div class="card">✔ 20+ Years of Experience</div>
+        <div class="card">✔ Trusted by Hundreds of Customers</div>
+        <div class="card">✔ Healthy & Well-Maintained Cattle</div>
+        <div class="card">✔ Honest Advice & Fair Pricing</div>
+    </div>
+</section>
+
+<section class="cta">
+    <h2>Get the Best Cattle Today</h2>
+    <p class="contact">📞 Call: 7887885545</p>
+</section>
+
+<footer>
+    © 2026 Trusted Cattle Business | Phone: 7887885545
+</footer>
+
+</body>
+</html>
